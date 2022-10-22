@@ -1,6 +1,5 @@
 import React from 'react';
 import './Navigation.css';
-import bootstrap from "bootstrap"
 import './Herosection.css';
 
 
